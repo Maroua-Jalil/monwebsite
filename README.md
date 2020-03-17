@@ -7,3 +7,7 @@ je suis developpeur
 
 secon line
  maroua jalil 
+ 
+ ## readme
+ 
+   **issues resolution**
